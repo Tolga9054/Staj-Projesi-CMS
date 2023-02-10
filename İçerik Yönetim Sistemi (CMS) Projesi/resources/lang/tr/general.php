@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'slider_go_to_detail'=> 'Detay\'a Git',
+    'home_service_title'=> 'Danışmanlık',
+    'home_service_description' =>'Hizmetlerimiz',
+    'works'=>'İşler',
+     'last_projects'=>'Son Projeler',
+    'view_project'=>'Projeyi Görüntüle',
+    'team'=>'Takım',
+    'our_experts'=>'Uzmanlarımız',
+    'blog'=>'Yazılar',
+    'recent_blog'=>'Son Yazılar',
+    'read_more'=>'Devamını Oku',
+    'categories'=>'Kategoriler',
+    'get_offer'=>'Teklif Al',
+    'get_offer_text'=>'Bize ücretsiz bir şekilde ulaşarak yazılımınız için teklif isteyebilirsiniz.',
+    'name'=>'Ad Soyad',
+    'email'=>'E-posta',
+    'subject'=>'Konu',
+    'message'=>'Mesaj',
+    'send'=>'Gönder',
+    'offer_success'=>'Teklifinizi aldık en kısa sürede dönüş yapacağız.',
+    'offer_alert'=>'Sistem Hatası ! İletişim bilgilerimizden bize ulaşabilirsiniz.',
+    'home'=>'Anasayfa',
+    'pages'=>'Sayfalar',
+    'services'=>'Servisler',
+    'contact'=>'İletişim',
+    'online_offer'=>'Online Teklif',
+    'newsletter'=>'Bülten',
+    'your_email'=>'E-postanız...',
+
+    'contact_title'=>'İletişim Bilgilerimiz',
+    'contact_text'=>'<p>Türkçe Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.<br>
+                     <br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Main has survived not only five centuries.</p>',
+    'contact_form_title'=>'Bize Yazın',
+    'contact_form_success'=>'Mesajınız başarıyla gönderildi!',
+    'contact_form_alert'=>'Mesajınız gönderilemedi!',
+    'search'=>'Ara',
+    'type_here'=>'Buraya yaz...',
+    'random_posts'=>'Rastgele gönderiler',
+    'comment_title'=>'Yorum gönder',
+    'comments_count'=>':number Yorum var',
+    'newsletter_found'=>'Bu Email Sistemde Kayıtlı!',
+    'newsletter_ok'=>'Email Adresiniz Sisteme Eklenmiştir!',
+
+
+];
